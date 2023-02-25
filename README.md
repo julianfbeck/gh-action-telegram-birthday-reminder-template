@@ -18,6 +18,7 @@ To create a Telegram Bot you can follow the instructions [here](https://core.tel
 You need to add the following secrets to your repository:
 
 `BOT_TOKEN` - The token you received from the BotFather
+
 `CHAT_ID` - The Chat ID of the chat you want to send the messages. Find out how to get the Chat ID [here](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id)
 
 ### Step 3 - Setup the Birthday File
