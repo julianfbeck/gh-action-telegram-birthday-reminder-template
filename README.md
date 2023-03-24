@@ -1,8 +1,5 @@
 # Telegram Birthday GH-Action
 
-Inspired by this [this](https://twitter.com/levelsio/status/1518506440939683840) tweet from [@levelsio](hhttps://twitter.com/levelsio) I decided to create a GitHub Action that utilizes the cron functionality to birthday reminder via Telegram.
-
-![Image of Tweet](doc/image.png)
 ## Setup Actions
 
 Copy this template repository to your own account and follow the steps below.
